@@ -15,7 +15,8 @@ Design a parking management system that uses ultrasonic sensors to detect free s
 
 **CIRCUIT**
 
-![image](https://github.com/user-attachments/assets/e595bf24-5fc9-47f7-9821-002694a0e126)
+![image](https://github.com/user-attachments/assets/18232983-71c1-4c5c-b89c-52b7f7da53b2)
+
 
 
 **WORKING**
